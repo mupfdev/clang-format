@@ -83,7 +83,7 @@ NamespaceIndentation:                           All
 #PenaltyReturnTypeOnItsOwnLine:                  0
 PointerAlignment:                               Left
 #RawStringFormats:
-ReflowComments:                                 true
+ReflowComments:                                 false
 SortIncludes:                                   false
 SortUsingDeclarations:                          false
 SpaceAfterCStyleCast:                           false
