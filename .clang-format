@@ -57,7 +57,7 @@ IncludeBlocks:                                  Preserve
 #IncludeCategories:
 #IncludeIsMainRegex:
 IndentCaseLabels:                               true
-IndentPPDirectives                              None
+#IndentPPDirectives                              None
 IndentWidth:                                    4
 IndentWrappedFunctionNames:                     true
 #JavaImportGroups:
