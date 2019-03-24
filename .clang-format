@@ -42,7 +42,7 @@ BreakConstructorInitializers:                   AfterColon
 BreakInheritanceList:                           AfterColon
 BreakStringLiterals:                            true
 ColumnLimit:                                    100
-#CommentPragma:
+CommentPragmas:                                 '^\\.+'
 CompactNamespaces:                              false
 ConstructorInitializerAllOnOneLineOrOnePerLine: false
 ConstructorInitializerIndentWidth:              4
@@ -57,7 +57,7 @@ IncludeBlocks:                                  Preserve
 #IncludeCategories:
 #IncludeIsMainRegex:
 IndentCaseLabels:                               true
-#IndentPPDirectives                              AfterHash
+IndentPPDirectives                              None
 IndentWidth:                                    4
 IndentWrappedFunctionNames:                     true
 #JavaImportGroups:
